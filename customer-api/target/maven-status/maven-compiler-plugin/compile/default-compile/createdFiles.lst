@@ -1,0 +1,12 @@
+api\service\ClientService.class
+api\config\CustomerConfigurationV2.class
+api\config\CustomerFeignInterceptor.class
+api\feign\CustomerControllerApi.class
+api\model\CustomerRequestDto.class
+api\config\CustomerFeignInterceptorV2.class
+api\feign\CustomerControllerApiClientV2.class
+api\config\CustomerConfiguration.class
+api\feign\CustomerControllerApiClient.class
+api\service\ClientServiceImpl.class
+api\model\CustomerResponseDto.class
+api\config\ApiKeyRequestInterceptor.class

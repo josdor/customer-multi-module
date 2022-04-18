@@ -1,0 +1,12 @@
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\service\ClientServiceImpl.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\service\ClientService.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\config\CustomerFeignInterceptorV2.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\model\CustomerRequestDto.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\model\CustomerResponseDto.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\feign\CustomerControllerApi.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\config\ApiKeyRequestInterceptor.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\config\CustomerConfigurationV2.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\feign\CustomerControllerApiClientV2.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\feign\CustomerControllerApiClient.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\config\CustomerConfiguration.java
+C:\Users\33618\IdeaProjects\customer-multi-module\customer-api\src\main\java\api\config\CustomerFeignInterceptor.java
